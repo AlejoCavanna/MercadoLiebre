@@ -1,0 +1,35 @@
+.formulario-login{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+   background-color: #E5E7E9;
+    font-family: sans-serif;
+    width: 100%;
+    height: 300px;
+    box-sizing: border-box; 
+}
+ .formulario-login input{
+    margin-bottom: 20px;
+    border: 1px solid white;
+    width: 80%;
+    height: 15%;
+    outline: none;
+}
+
+.boton-enviar{
+    border-radius: 30px;
+    color: black;
+}
+
+.boton-enviar:hover{
+    background-color: blue;
+    color: white;
+}
+
+
+
+
+
+
